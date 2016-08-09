@@ -86,6 +86,7 @@
       * RobotJs [Link](https://github.com/octalmage/robotjs)
       * RadioJs [Link](http://radio.uxder.com/)
       * RemoteJS [Link](https://github.com/hacksparrow/remote.js)
+      * RiotJS [Link](http://riotjs.com/)
 *  S
       * SoundJs [Link](http://www.createjs.com/soundjs)
       * SeaJs [Link](http://seajs.org/)
